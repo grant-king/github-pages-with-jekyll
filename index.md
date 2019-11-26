@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Learning how to set up
 
-I'm glad you are here. I plan to talk about ...
+GitHub Pages with Jekyll. 
+
+Thanks GitHub Learning Lab.
